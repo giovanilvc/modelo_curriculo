@@ -227,6 +227,7 @@ li {
 }
 
 .view-project-button:hover{
+    transition: 500ms;          /*Efeito de passar o mouse no botão*/
     opacity: 0.85;
 }
 
